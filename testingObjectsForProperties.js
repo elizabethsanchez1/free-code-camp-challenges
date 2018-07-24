@@ -15,3 +15,12 @@ function checkObj(checkProp) {
 
 // Test your code by modifying these values
 checkObj("gift");
+
+
+
+
+
+var myMusic = [ {...}, {...}, {...} ]
+				 
+				 
+[ 1, 2 , true, 'string'];
